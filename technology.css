@@ -1,0 +1,54 @@
+.col-sm-4{
+	color: white;
+}
+
+
+.container-fluid
+{
+	font-family: "Lobster", serif;
+
+
+}
+body{margin: 20px;}
+
+#buzz{
+	
+	font-family: "Lobster", serif;
+	margin: 100 px; 
+
+}
+
+.row{
+
+	margin-left:300px;
+}
+
+
+.container { 
+	 
+	font-style: normal;
+	font-family: "Lobster", serif;
+	font-size: 20px;
+
+}
+
+p{
+	color: black;
+	font-family: "Lobster", serif;
+	font-size: 20px;
+
+}
+
+.float-right{
+
+	color: black;
+	margin-left: 50px;
+	font-family: "Lobster", serif;
+	font-size: 20px;
+}
+
+.img-thumbnail{
+
+	height: 380px;
+	width: 300px;;
+}
