@@ -3,9 +3,7 @@
 {
 	font-family: "Lobster", serif;
 
-
 }
-
 
 .jumbotron { 
 	color: white; 
@@ -16,8 +14,13 @@
 }
 
 
+#info a {
+	color:black;
+}
+
 #info{
 	color: black;
+
 }
 
 #mission {
