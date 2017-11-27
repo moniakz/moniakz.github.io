@@ -16,28 +16,17 @@
 }
 
 
-body { padding-top: 70px; }
+#info{
+	color: black;
+}
 
 #mission {
 
 	color: white;
 }
 
-
-#social-buttons button {
-color: white;
-}
-.btn-twitter {
-background-color: grey;
-border-color: black;
-}
-.btn-facebook {
-background-color: grey;
-border-color: black;
-}
-.btn-linkedin {
-background-color: grey;
-border-color: black;
+.navbar{
+	margin:20px;
 }
 
 .jumbotron {
